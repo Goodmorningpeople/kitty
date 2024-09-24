@@ -1,5 +1,5 @@
 # My kitty config 
-## Commands to install this config 
+## Commands to install this kitty config 
 ```
 # create a backup of current kitty config 
 mv ~/.config/kitty/ kitty_save
