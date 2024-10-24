@@ -1,3 +1,3 @@
 # kitty
-My "somewhat?" aesthetic and functional kitty config.
+My "somewhat?" aesthetic and functional kitty configuration.
 
